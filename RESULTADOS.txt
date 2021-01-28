@@ -1,0 +1,54 @@
+#Evaluacion nativa
+
+Tiempo de ejecución del programa con longitud de 13 k-mers de C++ 
+Start 
+
+real 0m0,681s
+user 0m0,680s
+sys  0m0,000s
+
+Tiempo de ejecución del programa con longitud de 14 k-mers de C++ 
+Start 
+
+real 0m2,780s
+user 0m2,776s
+sys  0m0,000s
+
+Tiempo de ejecución del programa con longitud de 13 k-mers de python 
+Start 
+
+real 1m37,700s 
+user 1m37,545s 
+sys  0m0,008s 
+
+Tiempo de ejecucion del programa con longitud de 14 k-mers de python 
+Start 
+
+real 7m2,171s 
+user 7m1,549s 
+sys  0m0,002s
+
+# Evaluación con singularity
+
+Tiempo de ejecucion del programa k-mers14 con C++ usando la imagen python_latest.sif 
+real 0m2,778s 
+user 0m2,775s 
+sys 0m0,000s 
+
+Tiempo de ejecucion del programa k-mers14 con Python usando la imagen python_latest.sif 
+Start 
+real 6m57,672s 
+user 6m57,046s 
+sys 0m0,004s 
+
+Tiempo de ejecucion del programa k-mers13 con C++ usando la imagen python_latest.sif 
+Start 
+real 0m0,677s 
+user 0m0,676s 
+sys 0m0,000s 
+
+Tiempo de ejecucion del programa k-mers13 con Python usando la imagen python_latest.sif 
+Start 
+real 1m39,180s 
+user 1m39,030s
+sys  0m0,002s
